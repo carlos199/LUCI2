@@ -46,7 +46,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png",TVO CANAL 23
 http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
 #EXTINF:-1,A&E
-http://168.181.122.234:8000/play/a010/index.m3u8
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://orbitatv.com.sv/wp-content/uploads/2023/02/LOGO-ORBITA-TV-AZUL-e1675794070422.png",ORBITA TV CANAL 25
 https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3f/Sony_Cine_logo.webp/revision/latest/scale-to-width-down/250?cb=20221005065829&path-prefix=es",SONY CINE
