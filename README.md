@@ -41,20 +41,18 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png",MEGAVISION CANAL 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1,DISTRITO COMEDIA
-http://181.78.105.146:2000/play/a08t
-#EXTINF:-1 tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png",TVO CANAL 23
-http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
 #EXTINF:-1,SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://orbitatv.com.sv/wp-content/uploads/2023/02/LOGO-ORBITA-TV-AZUL-e1675794070422.png",ORBITA TV CANAL 25
-https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png",TVO CANAL 23
+http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
 #EXTINF:-1,A&E
 http://168.181.122.234:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.elim.org.sv/wp-content/uploads/2016/07/ELIM-TV-PROFILE-2.png",ELIM TV
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://orbitatv.com.sv/wp-content/uploads/2023/02/LOGO-ORBITA-TV-AZUL-e1675794070422.png",ORBITA TV CANAL 25
+https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3f/Sony_Cine_logo.webp/revision/latest/scale-to-width-down/250?cb=20221005065829&path-prefix=es",SONY CINE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.elim.org.sv/wp-content/uploads/2016/07/ELIM-TV-PROFILE-2.png",ELIM TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlAwfz6rLpUr48-parZDIcPPGdGLRsfPLSo-cj1GkrwTLTDlTfrYFrlyq8uJNZHFktgY&usqp=CAU",EL CAMINO TV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png",WOW TV
