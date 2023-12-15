@@ -10,7 +10,7 @@ http://138.59.177.34:8000/play/a012/index.m3u8
 #EXTINF:-1,Cartoon Network
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/200px-Canal_6_TCS.png",CANAL 6 TCS
-http://138.59.177.34:8000/play/a03g/index.m3u8
+https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-audio_0=64000-video=2000000.m3u8
 #EXTINF:-1,AZTECA 7
 http://181.78.105.146:2000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png",DREAMWORKS
