@@ -80,7 +80,7 @@ https://www.yupi.live:1936/tvmigente/tvmigente/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/TRV-El-Salvador-en-vivo-Online.png",TRV
 http://64.71.148.2:1935/latin/encoder44/playlist.m3u8
 #EXTINF:-1,TLNOVELAS
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://190.90.154.73:8080/play/a01d/index.m3u8
 #EXTINF:-1,LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,PASIONES
